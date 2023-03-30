@@ -1,5 +1,5 @@
 # Prediction-of-Product-Sales
-### Mikey Clausen
+ Mikey Clausen
 ## Project Overview
 ## Load and Inspect Data
 ## Clean Data
