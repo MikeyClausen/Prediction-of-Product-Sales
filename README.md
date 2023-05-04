@@ -42,11 +42,28 @@ This Data Set has 12 columns and 8523 rows.
 - Random Forest Regressor Model
 - Decision Tree Regressor Model
 - Bagged Tree Model
-- K-Nearest Neighbor Model
 
-Describe your final model
 
-Report the most important metrics
+## Models Evaluted & Results
+
+
+##### Linear Regression Test Scores
+- MAE: 804.1430 
+- MSE: 1,194,371.4977 
+- RMSE: 1,092.8730 
+- R2: 0.5671
+
+##### Decision Tree Regressor Test Scores
+- MAE: 738.3173 
+- MSE: 1,118,185.9731 
+- RMSE: 1,057.4431 
+- R2: 0.5947
+
+##### Bagging Regressor Test Scores
+- MAE: 767.3214 
+- MSE: 1,219,027.1669 
+- RMSE: 1,104.0956 
+- R2: 0.5582
 
 ##### Linear Regression Test Scores
 - MAE: 804.1430 
