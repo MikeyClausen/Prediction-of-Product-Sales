@@ -17,25 +17,26 @@ This Data Set has 12 columns and 8523 rows.
 
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/datadict.jpg)
 
-## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+###To prepare this data, data was cleaned, and the following was performed to help analyze
 
-## Results
+####Exploratory Data Analysis
+- During exploratory Data analysis Barplots are used to help anayzle the all the data.
 
-### Here are examples of how to embed images from your sub-folder
+#####Visual 2 Title
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/Outlet%20type%20vs%20mean%20of%20sales.png)
+
+> This visualization shows us which outlet has the highest average sales based on outlet type.
 
 
-#### Mean of Sales comparted to Item Types
+####Explantory Data Analysis
+-To visulaize data a barplot was made to show the average sales, of individual Item Types.
+
+#####Mean of Sales compared to Item Types
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/SalesvsItemtype.png)
 
 > This visualization shows us what products have the highest average sales. Starchy Foods are the item in this case.
 
-#### Visual 2 Title
-![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/Outlet%20type%20vs%20mean%20of%20sales.png)
 
-> This visualization shows us which outlet has the highest average sales based on outlet type.
-> 
 ## Model
 
 Describe your final model
