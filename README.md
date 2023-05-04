@@ -15,7 +15,7 @@ This Data Set has 12 columns and 8523 rows.
 
 ### Data Dictionary
 
-![Alt text](image link)https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/datadict.jpg
+![Alt text]([image link](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/datadict.jpg))
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
