@@ -48,7 +48,11 @@ Describe your final model
 
 Report the most important metrics
 
-Refer to the metrics to describe how well the model would solve the business problem
+##### Linear Regression Test Scores
+- MAE: 804.1430 
+- MSE: 1,194,371.4977 
+- RMSE: 1,092.8730 
+- R2: 0.5671
 
 ## Recommendations:
 
