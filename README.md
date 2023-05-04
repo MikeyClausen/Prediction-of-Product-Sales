@@ -34,7 +34,7 @@ This Data Set has 12 columns and 8523 rows.
 ##### Mean of Sales compared to Item Types
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/SalesvsItemtype.png)
 
-> This visualization shows us what products have the highest average sales. Starchy Foods are the item in this case.
+> This visualization shows us what products have the highest average sales. Starchy Foods have the highest average sales.
 
 
 ## Machine Learning Using the Following Models
