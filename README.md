@@ -65,23 +65,35 @@ This Data Set has 12 columns and 8523 rows.
 - RMSE: 1,104.0956 
 - R2: 0.5582
 
-##### Linear Regression Test Scores
-- MAE: 804.1430 
-- MSE: 1,194,371.4977 
-- RMSE: 1,092.8730 
-- R2: 0.5671
+##### Random Forest Regressor Test Scores
+- MAE: 728.3901 
+- MSE: 1,096,396.4989 
+- RMSE: 1,047.0895 
+- R2: 0.6026
+
+
+#### The final Model Chosen is Random Forest Regressor Model with the depth set to 5.
+
+- For the testing set on the model, 60% of the variance in y was explained by x
+- The Mean Absolute Eroor was off by about $728
+- The Mean Squared Error was $1,096,396.50
+- The Root Mean Squared Error was calculated at $1,047.08
+
+##### Using this model to make predictions about sales will not be very reliable, considering previous metrics from how the model performed there is a disparity between R^2 and Root Mean Squared Error that is not negligible.
 
 ## Recommendations:
 
-More of your own text here
+### Overall Recomendations
+
+*   Starchy foods sell the highest amount on average.
+*   Supermarket Type3 has the highest sales average of all outlet_types.
+
+
+### Model Recomendation
+
+*   Overall the best option is a the tuned Forest Regressor Model, Little Bias. Still had some but far less than other models used.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
-
-
-### For further information
-
-
-For any additional questions, please contact **email**
+- From here a business could use this to see that certain, foods and outlet types do sell better on average.
