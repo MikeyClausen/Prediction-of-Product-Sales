@@ -20,7 +20,7 @@ This Data Set has 12 columns and 8523 rows.
 ### To prepare this data, data was cleaned, and the following was performed to help analyze
 
 #### Exploratory Data Analysis
-- During exploratory Data analysis Barplots are used to help anayzle the all the data.
+- During exploratory Data analysis Barplots are used to help anayzle all the data.
 
 ##### Outlet Type VS. Average Sales
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/Outlet%20type%20vs%20mean%20of%20sales.png)
