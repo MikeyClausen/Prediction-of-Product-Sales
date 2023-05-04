@@ -25,7 +25,7 @@ This Data Set has 12 columns and 8523 rows.
 ##### Outlet Type VS. Average Sales
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/Outlet%20type%20vs%20mean%20of%20sales.png)
 
-> This visualization shows us which outlet has the highest average sales based on outlet type.
+> This visualization shows us which outlet has the highest average sales.
 
 
 #### Explantory Data Analysis
