@@ -26,8 +26,8 @@ This Data Set has 12 columns and 8523 rows.
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Mean of Sales comparted to Item Types
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/SalesvsItemtype.png)
 
 > Sentence about visualization.
 
