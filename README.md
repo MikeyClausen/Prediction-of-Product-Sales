@@ -37,7 +37,12 @@ This Data Set has 12 columns and 8523 rows.
 > This visualization shows us what products have the highest average sales. Starchy Foods are the item in this case.
 
 
-## Model
+## Machine Learning Using the Following Models
+- Linear Regression Model
+- Random Forest Regressor Model
+- Decision Tree Regressor Model
+- Bagged Tree Model
+- K-Nearest Neighbor Model
 
 Describe your final model
 
