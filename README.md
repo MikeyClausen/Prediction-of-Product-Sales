@@ -1,4 +1,4 @@
-# Data Science, Sales Predictions
+# Sales Predictions
 ## Analysis of sales & what has meaningful impact on them.
 
 **Author**: Michael Clausen
