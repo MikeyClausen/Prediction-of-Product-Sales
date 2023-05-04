@@ -91,7 +91,7 @@ This Data Set has 12 columns and 8523 rows.
 
 ### Model Recomendation
 
-*   Overall the best option is a the tuned Forest Regressor Model, Little Bias. Still had some but far less than other models used.
+*   Overall the best option is the tuned Forest Regressor Model, Little Bias. Still had some but far less than other models used.
 
 
 ## Limitations & Next Steps
