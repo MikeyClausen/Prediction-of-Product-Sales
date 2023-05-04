@@ -13,6 +13,9 @@ Analyze and determine what is affecting sales, predict how they can change in th
 
 This Data Set has 12 columns and 8523 rows.
 
+### Data Dictionary
+
+[embed]https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/datadict.jpg[/embed]
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
