@@ -91,7 +91,7 @@ This Data Set has 12 columns and 8523 rows.
 
 *   Overall the best option is the tuned Forest Regressor Model, Little Bias. Still had some but far less than other models used.
 
-###Final Recomendation
+### Final Recomendation
 
 *   Using this model to make predictions about sales will not be very reliable, considering previous metrics from how the model performed there is a disparity between R^2 and Root Mean Squared Error that is not negligible.
 
