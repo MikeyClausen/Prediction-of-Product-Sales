@@ -75,7 +75,7 @@ This Data Set has 12 columns and 8523 rows.
 #### The final Model Chosen is Random Forest Regressor Model with the depth set to 5.
 
 - For the testing set on the model, 60% of the variance in y was explained by x
-- The Mean Absolute Eroor was off by about $728
+- The Mean Absolute Error was off by about $728
 - The Mean Squared Error was $1,096,396.50
 - The Root Mean Squared Error was calculated at $1,047.08
 
