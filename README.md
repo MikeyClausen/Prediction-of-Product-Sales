@@ -79,8 +79,6 @@ This Data Set has 12 columns and 8523 rows.
 - The Mean Squared Error was $1,096,396.50
 - The Root Mean Squared Error was calculated at $1,047.08
 
-##### Using this model to make predictions about sales will not be very reliable, considering previous metrics from how the model performed there is a disparity between R^2 and Root Mean Squared Error that is not negligible.
-
 ## Recommendations:
 
 ### Overall Recomendations
@@ -93,6 +91,9 @@ This Data Set has 12 columns and 8523 rows.
 
 *   Overall the best option is the tuned Forest Regressor Model, Little Bias. Still had some but far less than other models used.
 
+###Final Recomendation
+
+*   Using this model to make predictions about sales will not be very reliable, considering previous metrics from how the model performed there is a disparity between R^2 and Root Mean Squared Error that is not negligible.
 
 ## Limitations & Next Steps
 
