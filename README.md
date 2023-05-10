@@ -17,7 +17,7 @@ This Data Set has 12 columns and 8523 rows.
 
 ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/datadict.jpg)
 
-### To prepare this data, data was cleaned, and the following was performed to help analyze
+### To prepare this data, it was cleaned, and the following steps were taken to help analyze it:
 
 #### Exploratory Data Analysis
 - During exploratory Data analysis Barplots are used to help anayzle all the data.
