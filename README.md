@@ -98,3 +98,19 @@ This Data Set has 12 columns and 8523 rows.
 ## Limitations & Next Steps
 
 - From here a business could use this to see that certain, foods and outlet types do sell better on average.
+
+
+
+## Coefficients and Importances
+
+### Coefficients
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/coefficients.png)
+*  This Feature intercept has a positive impact on the target variable.
+*  This Feature Outlet_Type_Grocery Store has a negative impact on the target variable.
+*  This Feature Outlet_Identifier_OUT027 has a positive impact on the target variable.
+
+### Importances Random Forest
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/importances.png)
+* Item_MRP, is the most important feature, It represents the maximum price the product can be sold to the customer.
+* Item_Visibility, Items viewability in the store greatly impacts sales.
+* Outlet Type, Shows that different outlet types have higher sales counts.
