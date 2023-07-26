@@ -114,3 +114,17 @@ This Data Set has 12 columns and 8523 rows.
 * Item_MRP, is the most important feature, It represents the maximum price the product can be sold to the customer.
 * Item_Visibility, Items viewability in the store greatly impacts sales.
 * Outlet Type, Shows that different outlet types have higher sales counts.
+
+## Summary Plots
+### Bar
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shap.png)
+- Item_MRP: Both Shap and our Random Forest model this is a very important feature in our predictions.
+- Item_Visibility: This shows on both, but seems to have a very low impact according to SHAP.
+- Outlet_Type: Is shown as important in both scorings.
+
+### Dot
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shapdot.png)
+
+- Outlet_Type_Grocery store: Grocery store type has the best sales.
+- Item_MRP: Effects the model in both ways.
+- Outlet_Identifier_OUT027: Highest selling store.
