@@ -114,3 +114,10 @@ This Data Set has 12 columns and 8523 rows.
 * Item_MRP, is the most important feature, It represents the maximum price the product can be sold to the customer.
 * Item_Visibility, Items viewability in the store greatly impacts sales.
 * Outlet Type, Shows that different outlet types have higher sales counts.
+
+## Summary Plots
+### Bar
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shap.png)
+
+### Dot
+![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shapdot.png)
