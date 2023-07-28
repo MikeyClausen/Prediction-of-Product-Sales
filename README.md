@@ -128,3 +128,18 @@ This Data Set has 12 columns and 8523 rows.
 - Outlet_Type_Grocery store: Grocery store type has the best sales.
 - Item_MRP: Effects the model in both ways.
 - Outlet_Identifier_OUT027: Highest selling store.
+
+
+  ## Shap
+  ### High
+  ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shap_force_plot_high.png)
+
+  ### Low
+  ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/shap_force_plot_low.png)
+
+  ## Lime
+  ### High
+  ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/highsaleslime.html)
+
+  ### Low
+   ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/lowsaleslime.html)
