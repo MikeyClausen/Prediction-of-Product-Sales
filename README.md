@@ -139,7 +139,7 @@ This Data Set has 12 columns and 8523 rows.
 
   ## Lime
   ### High
-  ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/highsaleslime.html)
+  ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/highsaleslime.png)
 
   ### Low
-   ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/lowsaleslime.html)
+   ![Alt text](https://github.com/MikeyClausen/Prediction-of-Product-Sales/blob/main/lowsaleslime.png)
